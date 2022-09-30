@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
+.bg-cont-min {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 10px;
+  padding: 20px;
+  font-family: 'Roboto';
+}
+/* .headMin {
+  display: none;
+} */
